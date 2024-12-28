@@ -1,4 +1,4 @@
-#GUI for a Know Your Customer form developed using React
+# GUI for a Know Your Customer form developed using React
 
 https://jaimevargas315.github.io/know-your-customer/
 
