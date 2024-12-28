@@ -1,3 +1,5 @@
+https://jaimevargas315.github.io/know-your-customer/
+
 # How to run this program locally
 Download the root directory of this branch and upload to Visual Studio Code. After installing dependencies, \
 enter `npm start` in the terminal while in the root directory
