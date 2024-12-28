@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/know-your-customer/static/css/main.9ea73a37.css",
+    "main.js": "/know-your-customer/static/js/main.6ea3c5dc.js",
+    "static/media/blur-hospital.jpg": "/know-your-customer/static/media/blur-hospital.590a28348c85318f4f6d.jpg",
+    "static/media/check.gif": "/know-your-customer/static/media/check.2f979de0b55604c14b0f.gif",
+    "index.html": "/know-your-customer/index.html",
+    "main.9ea73a37.css.map": "/know-your-customer/static/css/main.9ea73a37.css.map",
+    "main.6ea3c5dc.js.map": "/know-your-customer/static/js/main.6ea3c5dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea73a37.css",
+    "static/js/main.6ea3c5dc.js"
+  ]
+}

@@ -1,0 +1,127 @@
+body {
+    background-color:rgb(1, 11, 68,);
+    color: white;
+    margin:auto;
+    text-align: center;
+    background-image: url("blur-hospital.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+form{
+    margin-left:20%;
+    margin-right: 20%;
+    margin-top: auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0,0,0,0.33);
+    border-radius: 50px;
+    margin-bottom: 50px;
+    z-index: 1;
+    padding: 0px;
+    height:700px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+}
+header{
+    background-color: rgba(0, 72, 114, 0.6);
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+}
+h2{
+    padding-top: 15px;
+    font-size: 2em;
+}
+label{
+    font-size: 1.5em;
+    display:inline-block;
+    width: 300px;
+    text-align: right;
+}
+input,select{
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    font-weight: bold;
+    display:inline-block;
+}
+h3
+{
+    color: crimson;
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+footer{
+    background-color: rgba(0, 72, 114, 0.6);
+    padding: 20px;
+    font-size: 1em;
+    color: white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-items: center;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    height: 75px;
+}
+#address{
+    width:250px;
+    text-align: left;
+    margin-top: auto;
+}
+#contact{
+    width: 200px;
+    text-align: right;
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+#address2{
+    width: 100px;
+}
+.page3{
+    width: auto;
+}
+.button{
+    width:300px;
+}
+nav{
+    position:absolute;
+    top:750px;
+    right:35%;
+    width: auto;
+}
+main{
+    padding: 100px;
+}
+.labelpage1{
+    width:auto;
+}
+#flavor{
+    font-size: 2em;
+    font-weight: bold;
+}
+#progress {
+    width: 100%;
+    background-color: grey;
+  }
+  
+#bar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  }
+  progress{
+    position: absolute;
+    width: 50%;
+    left:25%;
+    bottom: 150px;
+    text-align: center;
+  }
